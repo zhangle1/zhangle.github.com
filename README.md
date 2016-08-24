@@ -68,12 +68,13 @@ github：https://github.com/zhangle1
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-25_com.mackpower.band.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-28_com.mackpower.band.png" width = "30%" height = "30%"   />
 
+*** 
 	
 * 公司已经有了AppCloud版的运营平台，希望有Android原生版。在这个项目中，我尝试着学习并使用Github上的一些clear-结构体系，尝试用了一些热门的三方库rxjava+retrofit,等，目前完成了此项目的前期的架构。也是这个项目让我感到困惑，希望能够重新找一份工作，能够跟优秀的程序员学习，提高自己的能力。
 * 收获1，学会了一些rxjava的操作符，gson的自定义，服务器端String传空值置成"",结合retrofit对服务端自定义的错误处理。学习封装此框架。
 * 目前最大的收获，也是最大的困惑，如何合适的解析数据，因为运营平台的通用性，此项目通用接口只有5个主接口，比如列表接口CommonJsonQuery?json:{}详细接口CommJsonDetail?json:{}，通过获取上一层的信息填入。得到的数据以及具体的列item也要根据11种类型填入。服务端给了一个ObjectjSON用来表示字段的属性，以及一些特殊性的json，CmmonDeatil里是数据的键值，一些引用类型又需要参照其他的表来动态填入。再结合一些侧拉搜索,以及尚未做的下拉刷新，及加载更多，让我重新反思并没有将MVC，MVP模式能够运用起来。
 
-*** 
+
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-01-55_com.makepower.modo.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-17_com.makepower.modo.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-24_com.makepower.modo.png" width = "30%" height = "30%"   />
