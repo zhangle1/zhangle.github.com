@@ -40,6 +40,11 @@ github：https://github.com/zhangle1
 * 积累了一些业务代码块(拍照，录音，视频播放)封装的代码,若需要自定义也可以学习并编写
 
 * 一些三方库的使用(xutils3,androidannotations,gson,MPChartLib,rxjava,retrofit2,BaseRecyclerViewAdapterHelper)等,能较短时间内熟悉代码，并开始开发。
+
+*有一定的阅读英文资料的能力，能借助百度翻译一些工具看文档- -..
+
+*并尝试通过视频，书籍，看一些技术博客了解学习Android应用层源码。
+
 # 个人经历
 
 * 2012进入温州大学瓯江学院学习
