@@ -55,8 +55,40 @@ stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 
 * 2017.9-2018.3 休息，
 
-#作品
+# 作品
 
+## 渔船社会化监管执法版，以及公众版(2017 索思)
+
+* 浙江海洋渔业局的项目
+* 海上执法信息化，以及提供离线执法上传和相关信息查询。
+* 主要功能分为：执法管理,开捕检查,船舶档案,开捕统计，三库核查,船员档案,自由裁量，法律法规,处罚结果,水产品价格,气象,北斗短信，离线下载，类似qq聊天等功能。
+* 个人职责：完成Android端架构，以及部分难点克服:)。
+* 项目收获: 满足不同角色客户需求,客户领导,执法人员等。"好看"兼顾"实用"。收获一定的拆解开源项目的能力,以及在只有第三方源码情况下，植入第三方功能。体会到编程的部分思想，个人认为编程的本质实际上就是寻求概念的共识。
+* 项目成就：2017.4顺利完成温州市海洋渔业局验收（http://www.zjsos.net/gywm/gsxw/2018/02/08/340.html）, 2017.7，获得浙江省渔业局认可，全省数据统一化。
+
+*** 
+
+## 通用平台(2016 创力)
+
+	
+* 公司已经有了AppCloud版的运营平台，希望有Android原生版。在这个项目中，我尝试着学习并使用Github上的一些clear-结构体系，尝试用了一些热门的三方库rxjava+retrofit,等，目前完成了此项目的前期的架构。也是这个项目让我感到困惑，希望能够重新找一份工作，能够跟优秀的程序员学习，提高自己的能力。
+* 收获1，学会了一些rxjava的操作符，gson的自定义，服务器端String传空值置成"",结合retrofit对服务端自定义的错误处理。学习封装此框架。
+* 目前最大的收获，也是最大的困惑，如何合适的解析数据，因为运营平台的通用性，此项目通用接口只有5个主接口，比如列表接口CommonJsonQuery?json:{}详细接口CommJsonDetail?json:{}，通过获取上一层的信息填入。得到的数据以及具体的列item也要根据11种类型填入。服务端给了一个ObjectjSON用来表示字段的属性，以及一些特殊性的json，CmmonDeatil里是数据的键值，一些引用类型又需要参照其他的表来动态填入。再结合一些侧拉搜索,以及一些UI变化，让我重新反思没有运用MVP模式. 并通过了解clear-结构体系 ,了解一些ViewModel, Responsity，一些概念，以及运用。
+
+
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-01-55_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-17_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-24_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-35_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-40_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-45_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-01-55_com.makepower.modo.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-54_com.makepower.modo.png" width = "30%" height = "30%"   /> 
+
+*** 
+
+
+## 疲劳管家(2016 创力)
 	
 * 东航的项目，利用手环检测飞行员的身体数据，以及推送消息提醒。
 * 在疲劳管家中负责三大核心模块的消息推送模块，利用了第三方极光推送，实现了应用内单向角标提示，以及推送9大列表(今日航班提醒，明日航班提醒，今日跑步数等)，以及点击详情内容,和应用内弹窗提醒，另外实现一些功能点以及修复bug。
@@ -74,20 +106,4 @@ stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-23_com.mackpower.band.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-25_com.mackpower.band.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-28_com.mackpower.band.png" width = "30%" height = "30%"   />
-
-*** 
-	
-* 公司已经有了AppCloud版的运营平台，希望有Android原生版。在这个项目中，我尝试着学习并使用Github上的一些clear-结构体系，尝试用了一些热门的三方库rxjava+retrofit,等，目前完成了此项目的前期的架构。也是这个项目让我感到困惑，希望能够重新找一份工作，能够跟优秀的程序员学习，提高自己的能力。
-* 收获1，学会了一些rxjava的操作符，gson的自定义，服务器端String传空值置成"",结合retrofit对服务端自定义的错误处理。学习封装此框架。
-* 目前最大的收获，也是最大的困惑，如何合适的解析数据，因为运营平台的通用性，此项目通用接口只有5个主接口，比如列表接口CommonJsonQuery?json:{}详细接口CommJsonDetail?json:{}，通过获取上一层的信息填入。得到的数据以及具体的列item也要根据11种类型填入。服务端给了一个ObjectjSON用来表示字段的属性，以及一些特殊性的json，CmmonDeatil里是数据的键值，一些引用类型又需要参照其他的表来动态填入。再结合一些侧拉搜索,以及一些UI变化，让我重新反思没有运用MVP模式. 并通过了解clear-结构体系 ,了解一些ViewModel, Responsity，一些概念，以及运用。
-
-
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-01-55_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-17_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-24_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-35_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-40_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-45_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-01-55_com.makepower.modo.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-20-16-02-54_com.makepower.modo.png" width = "30%" height = "30%"   /> 
 
