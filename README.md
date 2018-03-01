@@ -73,17 +73,6 @@ stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_20180301-150732.png" width = "30%" height = "30%"   />
 
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_20180301-150740.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150753.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150803.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150827.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150833.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150916.png" width = "30%" height = "30%"   />
-
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150931.png" width = "30%" height = "30%"   />
-
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-150947.png" width = "30%" height = "30%"   />
-
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/F:\Users\Raytine\IdeaProjects\zhangle.github.com\my-pic\Screenshot_20180301-151029.png" width = "30%" height = "30%"   />
 
 *** 
 
