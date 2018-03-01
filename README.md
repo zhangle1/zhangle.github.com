@@ -65,6 +65,7 @@ stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 * 个人职责：完成Android端架构，以及部分难点克服:)
 * 项目收获: 满足不同角色客户需求,客户领导,执法人员等。"好看"兼顾"实用"。收获一定的拆解开源项目的能力,以及在只有第三方源码情况下，植入第三方功能。体会到编程的部分思想，个人认为编程的本质实际上就是寻求概念的共识
 * 项目成就：2017.4顺利完成温州市海洋渔业局验收（http://www.zjsos.net/gywm/gsxw/2018/02/08/340.html ）, 2017.7，获得浙江省渔业局认可，全省数据统一化
+* 相关链接：https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%B5%B7%E6%B8%94%E9%80%9A&rsv_spt=1&rsv_iqid=0xf6d2c4d800043a03&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&oq=%25E7%25A4%25BE%25E4%25BC%259A%25E5%258C%2596%25E7%259B%2591%25E7%25AE%25A1&rsv_t=35a2mDekgyONCWQHLMeIkEM%2FybYZn7QWDFYQavpl1IemrNQOmEbup1HsZNsC1kIV9d55&rsv_pq=a3f4141600008db7&inputT=17582&rsv_sug2=0&rsv_sug4=18658
 
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_20180301-150715.png" width = "30%" height = "30%"   />
 
