@@ -18,42 +18,51 @@
 Email：zhangleshiye@gmail.com
 
 博客：http://blog.csdn.net/zhangle1hao
+     http://121.199.14.247:8090/
 
 github：https://github.com/zhangle1
 
-stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 
-# 自我简介
-* 两年Android开发工作经验
 
-* 拥有一定的自学能力和团队合作能力
-
-* 希望成为一个能解决更多问题的程序员,github用户，希望接下能够写一些有用的开源代码和博客
+# 理想
+* 希望能够成为一名能够做解决方案，
+  为客户和企业创造价值的程序员。
+  和同事之间互相赋能，能够学习更多知识，解决更多实际问题。
 
 
 # 技能
 
-* Android原生应用开发,熟悉Android开发工具Android studio，以及热门开源框架使用及封装
+* Android三年开发(能够解决各种常见需求，以及较完善的代码架构,ui输出质量）
+
+* 可以完成后端接口以及模块开发（java or c# ）,js渣
+
+* 对客户端跨平台开发保持很高的热情(flutter,uniapp等),相信跨平台技术可以降低客户开发成本，并有实际的开源尝试项目
+  https://hacpai.com/article/1586333437792
+  https://github.com/zhangle1/ZLHacpai
 
 * 熟练使用版本管理工具git
 
-* 一定的第三方文档阅读能力,和源码阅读能力,可以根据需要将功能需求从开源项目中拆出,积累了一些业务代码
+* 有一定的阅读英文资料的能力
 
-* 有一定的阅读英文资料的能力，可以从stackoverflow上查找报错解决方案，以及从github上搜索热门的框架，和优秀的源码并学习
+* 不错的代码阅读能力
 
-* 目前对后端框架Jhipster感兴趣，学习Spring家全家桶，前端Angular。可以根据需要，短时间上手后端
 
 # 个人经历
+ 
 
-* 2012          进入温州大学瓯江学院学习
-
-* 2012.9-2015.9 担任过小组组长，实践课，以及老师的一些小项目
+* 2012.9-2015.9 温州大学瓯江学院
 
 * 2015.9-2016.9 温州创力电子科技
 
 * 2016.9-2017.8 温州索思科技
 
-* 2017.9-2018.3 休息，反思，学习
+* 2017.9-2018.3 休息
+
+* 2018.3-2019.3 帮家里做事
+
+* 2019.4-2019.10 乐清八角星科技
+
+* 2019.10-8-至今 温州云坤智联
 
 # 作品
 
@@ -122,4 +131,5 @@ stackoverflow:https://stackoverflow.com/users/6246860/zhangl
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-23_com.mackpower.band.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-25_com.mackpower.band.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/Screenshot_2016-08-24-21-03-28_com.mackpower.band.png" width = "30%" height = "30%"   />
+
 
