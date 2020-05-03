@@ -36,6 +36,7 @@ github：https://github.com/zhangle1
   
 # 技能
 
+
 * Android三年开发(能够解决各种常见需求，以及较完善的代码架构,ui输出质量,可以快速跟踪android新框架）
 
 * 可以完成后端模块开发（java or c# ）
