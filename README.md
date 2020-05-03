@@ -28,13 +28,17 @@ github：https://github.com/zhangle1
 * 希望能够成为一名能够做解决方案，
   为客户和企业创造价值的程序员。
   和同事之间互相赋能，能够学习更多知识，解决更多实际问题。
+  
+# 近期目标
 
-
+* 有机会的话1-2个月内学会ios，并进行开发, 以flutter混合开发为支点，完成相关移动端项目开发，帮企业降低成本，提高开发效率。
+* 多多向后端学习相关领域知识，写健壮性的后端代码。
+  
 # 技能
 
 * Android三年开发(能够解决各种常见需求，以及较完善的代码架构,ui输出质量,可以快速跟踪android新框架）
 
-* 可以完成后端接口以及模块开发（java or c# ）,js渣
+* 可以完成后端模块开发（java or c# ）
 
 * 对客户端跨平台开发保持很高的热情(flutter,uniapp等),相信跨平台技术可以降低企业开发成本，并有实际的开源尝试项目
   https://hacpai.com/article/1586333437792
@@ -62,15 +66,25 @@ github：https://github.com/zhangle1
 
 * 2019.4-2019.10 乐清八角星科技
 
-* 2019.10-8-至今 温州云坤智联
+* 2019.10.8-至今 温州云坤智联
 
 # 作品
+
+##云坤智联
+* 瑞安戈尔德智能车间项目,mes系统(项目涉及用erp，plm数据导入导出,数据大屏，车间平板,手机端wms,生产管控)
+* 开发时间:2019.11-至今
+* 项目涉及技术c#(后端架构),js(数据大屏,admin后端) ,java(Android),c#(平板 winform)
+* 本人职责
+  1.和同事一起完成对erp,plm数据的同步，导入本系统相关数据库（例如生产工单,领料单,销售订单,客户资料,部门等基础数据，
+  以及Plm相关工艺，工序数据，保证和维护数据的正确性和实时性）
+  2.winform(包装车间包装流程部分功能开发，以及生产相关plm作业指导书,cad图纸显示,winform平板，以及相关接口)
+  3.android端仓储系统wms，独立负责(扫描比对相关系统相关单据的正确性，清点校验，并提交数据，后端以任务，调用用友u8接口的方式,完成入库)
 
 ## 八角星
 
 * 英棒房产
-* 是一款可以在线买房、租房的应用app，软件平台为用户提供全面、详细的房源服务，用户使用软件可以查看最新的房源信息
-，了解最新的房产价格，有需要买房、租房的用户可以到电玩之家下载软件使用。
+* 是一款可以在线买房、租房的应用app，软件平台为用户提供全面、详细的房源服务，用户使用软件可以查看温州地区最新的房源信息
+，了解最新的房产价格，有需要买房、租房的用户
 * android端负责完成开发
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb1.jpg" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb2.jpg" width = "30%" height = "30%"   />
@@ -79,6 +93,15 @@ github：https://github.com/zhangle1
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb5.jpg" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb6.png" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb7.jpg" width = "30%" height = "30%"   />
+
+* 管阀宝后端开发
+* 后端用的java语言,框架用的是若依。独立后端开发。
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita1.jpg" width = "30%" height = "30%"   />
+
+
+* 其他若干android项目开发等等等等....
+ <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita2.jpg" width = "30%" height = "30%"   />
+ <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita3.jpg" width = "30%" height = "30%"   />
 
 
 
