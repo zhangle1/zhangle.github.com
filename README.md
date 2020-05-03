@@ -32,11 +32,11 @@ github：https://github.com/zhangle1
 
 # 技能
 
-* Android三年开发(能够解决各种常见需求，以及较完善的代码架构,ui输出质量）
+* Android三年开发(能够解决各种常见需求，以及较完善的代码架构,ui输出质量,可以快速跟踪android新框架）
 
 * 可以完成后端接口以及模块开发（java or c# ）,js渣
 
-* 对客户端跨平台开发保持很高的热情(flutter,uniapp等),相信跨平台技术可以降低客户开发成本，并有实际的开源尝试项目
+* 对客户端跨平台开发保持很高的热情(flutter,uniapp等),相信跨平台技术可以降低企业开发成本，并有实际的开源尝试项目
   https://hacpai.com/article/1586333437792
   https://github.com/zhangle1/ZLHacpai
 
@@ -68,7 +68,18 @@ github：https://github.com/zhangle1
 
 ## 八角星
 
-*
+* 英棒房产
+* 是一款可以在线买房、租房的应用app，软件平台为用户提供全面、详细的房源服务，用户使用软件可以查看最新的房源信息
+，了解最新的房产价格，有需要买房、租房的用户可以到电玩之家下载软件使用。
+* android端负责完成开发
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb1.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb2.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb3.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb4.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb5.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb6.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb7.png" width = "30%" height = "30%"   />
+
 
 
 ## 渔船社会化监管执法版，以及公众版(2017 索思)
