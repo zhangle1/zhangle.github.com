@@ -71,6 +71,7 @@ github：https://github.com/zhangle1
 # 作品
 
 ##云坤智联
+
 * 瑞安戈尔德智能车间项目,mes系统(项目涉及用erp，plm数据导入导出,数据大屏，车间平板,手机端wms,生产管控)
 * 开发时间:2019.11-至今
 * 项目涉及技术c#(后端架构),js(数据大屏,admin后端) ,java(Android),c#(平板 winform)
