@@ -77,10 +77,10 @@ github：https://github.com/zhangle1
 * 开发时间:2019.11-至今
 * 项目涉及技术c#(后端架构),js(数据大屏,admin后端) ,java(Android),c#(平板 winform)
 * 本人职责
-  1.和同事一起完成对erp,plm数据的同步，导入本系统相关数据库（例如生产工单,领料单,销售订单,客户资料,部门等基础数据，
+*  1.和同事一起完成对erp,plm数据的同步，导入本系统相关数据库（例如生产工单,领料单,销售订单,客户资料,部门等基础数据，
   以及Plm相关工艺，工序数据，保证和维护数据的正确性和实时性）
-  2.winform(包装车间包装流程部分功能开发，以及生产相关plm作业指导书,cad图纸显示,winform平板，以及相关接口)
-  3.android端仓储系统wms，独立负责(扫描比对相关系统相关单据的正确性，清点校验，并提交数据，后端以任务，调用用友u8接口的方式,完成入库)
+ * 2.winform(包装车间包装流程部分功能开发，以及生产相关plm作业指导书,cad图纸显示,winform平板，以及相关接口)
+ * 3.android端仓储系统wms，独立负责(扫描比对相关系统相关单据的正确性，清点校验，并提交数据，后端以任务，调用用友u8接口的方式,完成入库)
 
 ## 八角星
 
@@ -98,12 +98,12 @@ github：https://github.com/zhangle1
 
 * 管阀宝后端开发
 * 后端用的java语言,框架用的是若依。独立后端开发。
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita1.jpg" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita4.jpg" width = "30%" height = "30%"   />
 
 
 * 其他若干android项目开发等等等等....
- <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita2.jpg" width = "30%" height = "30%"   />
- <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita3.jpg" width = "30%" height = "30%"   />
+ <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita5.jpg" width = "30%" height = "30%"   />
+ <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/qita6.jpg" width = "30%" height = "30%"   />
 
 
 
