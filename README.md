@@ -72,13 +72,13 @@ github：https://github.com/zhangle1
 * 是一款可以在线买房、租房的应用app，软件平台为用户提供全面、详细的房源服务，用户使用软件可以查看最新的房源信息
 ，了解最新的房产价格，有需要买房、租房的用户可以到电玩之家下载软件使用。
 * android端负责完成开发
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb1.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb2.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb3.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb4.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb5.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb1.jpg" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb2.jpg" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb3.jpg" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb4.jpg" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb5.jpg" width = "30%" height = "30%"   />
 <img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb6.png" width = "30%" height = "30%"   />
-<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb7.png" width = "30%" height = "30%"   />
+<img src="https://github.com/zhangle1/zhangle.github.com/blob/master/my-pic/yb7.jpg" width = "30%" height = "30%"   />
 
 
 
