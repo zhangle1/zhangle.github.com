@@ -37,48 +37,74 @@ github：https://github.com/zhangle1
 
 # 工作内容
 正在做
+
 我现在正在调研使用JetLinks iot平台，二次开发前端部分,以及研究rxdarg前端项目,研究逻辑编排方便后续能对设备数采数据进行可视化数据转换。
+
 维护开发十几个左右工厂数据大屏项目,以及开发Mes接口定制功能。
 
 开发过
+
 数据同步模块(erp,oa,plm数据定时写入到mes数据库)
+
 Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以及android客户端
+
 设备模具
+
 品质管理
+
 报表相关(生产条码质检追溯等)
+
 设备数采转换,iot
-基于开源bi datart二开,
+
+基于开源bi datart二开
+
 研究过dlinky,openmetadata数据中台,对java大数据和数据治理方向有一定兴趣
 
 成果
+
 参与并完成公司最初的几个项目，百万级的项目并通过政府验收, 开发数据同步模块,wms前后端,winform客户端,成品包装打印模块，数采等
+
 开发并维护公司的十几个数据大屏项目
+
 参与开发公司cps 2.0(react, c#) 前后端的客户定制需求并按时交付相关功能
 
 业务
+
 对Erp,plm,srm等业务系统有一定理解使用,设备数据采集平台。 ,以及Mes实践
+
 有一定沟通能力,可以和同事，客户协同推进开发任务。
 
 # 技术栈工具链
+
 工作中（熟练）
+
 语言
+
 c#, ts,js,sql,java(android 客户端)
 
 框架 
+
 c#(furion)react(antd),vue(naive-ui,自己写的的数据大屏框架)
 
 ide
+
 visual studio, vscodes,android studio
 
 其他
+
 source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox
 
 过往
+
 我有过几年的Android(mvp,retrofit,rxjava)原生开发经验,对原生开发有一定生产实践和理解
+
 和短暂半年的java后台开发经验(若依)
 
 学习兴趣
-对新技术保持学习态度,我喜欢写前端,以及学习开发react和他丰富的生态,java的大数据方向(flink计算引擎,小海豚调度,元数据管理),对低代码方向很感兴趣(bi datart,阿里lowcodeengine平台),希望有机会能往这方面发展
+
+对新技术保持学习态度,我喜欢写前端,以及学习开发react和他丰富的生态
+java的大数据方向(flink计算引擎,小海豚调度,元数据管理)
+对低代码方向很感兴趣(bi datart,阿里lowcodeengine平台),希望有机会能往这方面发展
 
 
 
