@@ -77,7 +77,7 @@ source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox
 我有过几年的Android(mvp,retrofit,rxjava)原生开发经验,对原生开发有一定生产实践和理解
 和短暂半年的java后台开发经验(若依)
 
-兴趣
+学习兴趣
 对新技术保持学习态度,我喜欢写前端,以及学习开发react和他丰富的生态,java的大数据方向(flink计算引擎,小海豚调度,元数据管理),对低代码方向很感兴趣(bi datart,阿里lowcodeengine平台),希望有机会能往这方面发展
 
 
