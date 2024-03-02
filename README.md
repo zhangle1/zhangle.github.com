@@ -51,7 +51,7 @@ Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以
 研究过dlinky,openmetadata数据中台,对java大数据和数据治理方向有一定兴趣
 
 业务
-对Erp,plm,srm等业务系统有一定理解 ,Mes实践
+对Erp,plm,srm等业务系统有一定理解使用,设备数据采集平台。 ,以及Mes实践
 
 # 技术栈工具链
 工作中（熟练）
@@ -65,7 +65,7 @@ ide
 visual studio, vscodes,android studio
 
 其他
-source tree,git(码云)
+source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox
 
 过往
 我有过几年的Android(mvp,retrofit,rxjava)原生开发经验,对原生开发有一定生产实践和理解
