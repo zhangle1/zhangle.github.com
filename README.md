@@ -38,9 +38,7 @@ github：https://github.com/zhangle1
 # 工作内容
 正在做
 
-我现在正在调研使用JetLinks iot平台，二次开发前端部分,以及研究rxdarg前端项目,研究逻辑编排方便后续能对设备数采数据进行可视化数据转换。
-
-维护开发十几个左右工厂数据大屏项目,以及开发Mes接口定制功能。
+根据交付提交需求,开发Mes相关功能(前后端)，维护开发公司数据大屏项目
 
 开发过
 
@@ -73,6 +71,14 @@ Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以
 对Erp,plm,srm等业务系统有一定理解使用,设备数据采集平台。 ,以及Mes实践
 
 有一定沟通能力,可以和同事，客户协同推进开发任务。
+
+预览
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes1.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes2.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes3.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen1.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen2.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen3.jpg" width = "30%" height = "30%"   />
 
 # 技术栈工具链
 
