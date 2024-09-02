@@ -236,7 +236,7 @@ visual studio, vscodes,android studio
 
 其他
 
-source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox,
+source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox,jenkins
 
 
 
