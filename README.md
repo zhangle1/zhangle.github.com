@@ -36,9 +36,15 @@ github：https://github.com/zhangle1
 * 2019.10.8-至今 温州云坤智联,国坤智能
 
 # 工作内容
-正在做
+正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
+平台分为两个模块数采端(c#),,jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
+我负责了平台端50%多的接口,以及数据数采元数据的清洗以及负责前端相关的二次开发100%
+技术架构 c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant design vue....)
 
-根据交付提交需求,开发Mes相关功能(前后端)，维护开发公司数据大屏项目
+预览
+
+
+
 
 开发过
 
@@ -99,18 +105,6 @@ visual studio, vscodes,android studio
 其他
 
 source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox
-
-过往
-
-我有过几年的Android(mvp,retrofit,rxjava)原生开发经验,对原生开发有一定生产实践和理解
-
-和短暂半年的java后台开发经验(若依)
-
-学习兴趣
-
-对新技术保持学习态度,我喜欢写前端,以及学习开发react和他丰富的生态
-java的大数据方向(flink计算引擎,小海豚调度,元数据管理)
-对低代码方向很感兴趣(bi datart,阿里lowcodeengine平台),希望有机会能往这方面发展
 
 
 
