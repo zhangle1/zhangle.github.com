@@ -36,12 +36,18 @@ github：https://github.com/zhangle1
 * 2019.10.8-至今 温州云坤智联,国坤智能
 
 # 工作内容
-正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
+今年5月份开始,正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
 平台分为两个模块数采端(c#),,jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
 我负责了平台端50%多的接口,以及数据数采元数据的清洗以及负责前端相关的二次开发100%
 技术架构 c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant design vue....)
 
 预览
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot1.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot2.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot3.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot4.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot5.jpg" width = "30%" height = "30%"   />
+
 
 
 
