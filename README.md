@@ -232,7 +232,7 @@ c#(furion)react(antd),vue(naive-ui,echart,axios) java(jetlinks)
 
 ide
 
-visual studio, vscodes,android studio
+visual studio, vscodes,idea,android studio
 
 其他
 
