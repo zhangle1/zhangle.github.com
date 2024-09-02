@@ -51,7 +51,7 @@ c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant
 
 量化
 
-完成欣灵数采平台的验收30w,以及签单戈尔德数采平台,蓝图25w
+完成XL数采平台的验收30w,以及签单gold数采平台,蓝图25w
 
 路线图
 
@@ -72,6 +72,7 @@ BI数据大屏模块
 简介
 
 我一个人开发了公司的数据大屏应用，并上线,维护了2020-2024至今十几个客户的数据大屏项目,对Mes,iot设备模块,erp等相关指标的提取,以及应用显示有比较深的理解。
+以及在开源bi系统datart(java+mybatis+react+antd)上面进行二次开发,并给出外链,对bi系统的前后端架构有比较深刻的理解和实践。可以对前后端进行裁剪移植
 
 量化
 
@@ -85,44 +86,28 @@ c#(Furion)+web(vue+naive-ui+自定义相关组件)+SQL
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen2.jpg" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen3.jpg" width = "30%" height = "30%"   />
 
+CPS MES系统
+
+简介
+
+公司的MES核心平台,
+
+技术架构
+
+C#(Furion)+React(antd+umi)
 
 
-开发过
 
-数据同步模块(erp,oa,plm数据定时写入到mes数据库)
 
-Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以及android客户端
 
-设备模具
+SPC模块
 
-品质管理
-
-报表相关(生产条码质检追溯等)
-
-设备数采转换,iot
-
-基于开源bi datart二开
-
-研究过dlinky,openmetadata数据中台,对java大数据和数据治理方向有一定兴趣
-
-成果
-
-参与并完成公司最初的几个项目，百万级的项目并通过政府验收, 开发数据同步模块,wms前后端,winform客户端,成品包装打印模块，数采等
-
-开发并维护公司的十几个数据大屏项目
-
-参与开发公司cps 2.0(react, c#) 前后端的客户定制需求并按时交付相关功能
-
-业务
-
-对Erp,plm,srm等业务系统有一定理解使用,设备数据采集平台。 ,以及Mes实践
-
-有一定沟通能力,可以和同事，客户协同推进开发任务。
+独立开发优化了特定的版本,对客户品质,质检部门spc的需求有相关实践,对常见质检方式（I_MR,XBAR_R,XBAR_S）,常见计算公式cpk,cp,cp,pp，和9点检测方式有较深理解。
 
 预览
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes1.jpg" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes2.jpg" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes3.jpg" width = "30%" height = "30%"   />
+
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/spc/spc1.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/spc2.png" width = "30%" height = "30%"   />
 
 
 # 技术栈工具链
@@ -131,11 +116,11 @@ Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以
 
 语言
 
-c#, ts,js,sql,java(android 客户端)
+c#, ts,js,sql,java(jetlinks 2024, android端(retrofit+rxjava 2020-2021))
 
 框架 
 
-c#(furion)react(antd),vue(naive-ui,自己写的的数据大屏框架)
+c#(furion)react(antd),vue(naive-ui,echart,axios) java(jetlinks)
 
 ide
 
@@ -143,7 +128,7 @@ visual studio, vscodes,android studio
 
 其他
 
-source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox
+source tree,git(码云),gpt,蓝湖使用,navicat,语雀,apifox,
 
 
 
