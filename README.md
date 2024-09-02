@@ -49,21 +49,21 @@ github：https://github.com/zhangle1
 平台分为两个模块数采端(c#),jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
 我负责了平台端50%多的接口,以及数据数采元数据的清洗以及负责前端相关的二次开发100%
 
-技术架构 
+### 技术架构 
 
 c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant design vue....)
 
-量化
+### 量化
 
 完成XL数采平台的验收30w,以及签单gold数采平台,蓝图25w左右
 
-路线图
+### 路线图
 
 1.尝试集成go-view(大屏数据应用),前端部分已接入100%,后端部分接入60%,提供数据应用显示能力(包括设备数采的设备状态卡片展示,以及各种维度度量的图表,后续可分类为大屏,组态两种模块大屏)
 
 2.规则引擎模块移植,目前正在学习以及使用开源平台(https://github.com/isxcode/flink-yun),(https://zhiliuyun.isxcode.com/) 并后续准备尝试移植融合到jetlinks给数采平台提供可视化数据清洗能力,对java,我对数据治理平台非常感兴趣,希望可以能够通过可视化的方式对数采数据进行数据etl处理,以及数据应用。数据清洗平台其实应用价值很高,不仅可以对数据进行归类,术语话,而且如果能够做到集成平台,类似workflow+script(java,sql,c#,other)+app的方式,不仅可以应用iot数采数据,也可以应用与MES提取ERP的相关数据信息,成熟后也可以交付给项目团队,让他们能够处理部分数据转换工作。也可以应用与应用报表模块的主从数据库分离,实时性,和接口速度的提升。
 
-预览
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot2.png" width = "30%" height = "30%"   />
@@ -71,18 +71,18 @@ c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot4.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot5.png" width = "30%" height = "30%"   />
 
-BI数据大屏模块
+## BI数据大屏模块
 
-简介
+### 简介
 
 我一个人开发了公司的数据大屏应用，并上线,维护了2020-2024至今十几个客户的数据大屏项目,对Mes,iot设备模块,erp等相关指标的提取,以及应用显示有比较深的理解。
 以及在开源bi系统datart(java+mybatis+react+antd)上面进行二次开发,并给出外链,对bi系统的前后端架构有比较深刻的理解和实践。可以对前后端进行裁剪移植
 
-量化
+### 量化
 
 大概有40w-50w左右相关看板开发费用验收
 
-技术架构
+### 技术架构
 
 c#(Furion)+web(vue+naive-ui+自定义相关组件)+SQL
 
@@ -90,52 +90,54 @@ c#(Furion)+web(vue+naive-ui+自定义相关组件)+SQL
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen2.jpg" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen3.jpg" width = "30%" height = "30%"   />
 
-CPS MES系统
+## CPS MES系统
 
-简介
+### 简介
 
 公司的MES核心产品平台
 
-技术架构
+### 技术架构
 
 C#(Furion)+React(antd+umi)
 
-量化
+### 量化
 
 参与了公司大概有7,8个项目左右MES系统的开发相关需求任务,基本MES不同阶段的需求都有经历过,和有一定的代码积累,资源。项目大部分完成验收。
 
-生产管理
+### 生产管理
 
 理解相关单据生产管理工单,工单BOM,生产领料单,生产入库单,派工单,以及工艺路线,工序,以及EWI模块的的业务含义和串联,工单状态变更,下发,拆单,以及产生生产报工数据不良数据,返工数据,产出工资报表,,能根据客户或交付需求 交付相关功能,参与部分客户业务开发。
 
-预览
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mo/mo1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mo/mo2.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mo/mo3.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mo/mo4.png" width = "30%" height = "30%"   />
 
-仓储模块
+## 仓储模块
 
 目前接触MES的仓储模块,更多的是从同步端erp获取源单, 通过接口调用或者写库的方式去回写erp相关的单据模块。我有断断续续有一年多时间多开发和修改过对应的单据接口,以及手持端的开发工作。对于相应的接口开发有一定的理解和实践，以及与对应模块生产模块,同步模块,和基础模块标签打印的串联。对k3,金蝶云和用友u8的接口开发和同步有一定实践。
 
-预览
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/wms/wms1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/wms/wms2.png" width = "30%" height = "30%"   />
 
-品质模块
+## 品质模块
 
 理解相关业务含义 来料检,生产检, 生产检中 在线检，首检，巡检，完工检等业务含义。与生产管理系统中派工单的串联,SRM来料到货的串联以及SPC 数据应用模块的展示。参与过部分客户的功能修改以及开发。
+
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iqc/iqc1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iqc/iqc2.png" width = "30%" height = "30%"   />
 
-基础模块
+## 基础模块
 
-理解基础资料相关配置,以及相关表关联,并参与过部分客户工程数据,标签管理,基础资料功能的修改
+ 理解基础资料相关配置,以及相关表关联,并参与过部分客户工程数据,标签管理,基础资料功能的修改
 
-预览
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/newmes/basic1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/newmes/basic2.png" width = "30%" height = "30%"   />
@@ -143,21 +145,21 @@ C#(Furion)+React(antd+umi)
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/newmes/basic4.png" width = "30%" height = "30%"   />
 
 
-预制报表模块
+## 预制报表模块
 
-完成了公司核心系统预制报表十几个的开发,以及较复杂的正向和反向追溯报表查询,以及客户自定义报表功能的修改
+ 完成了公司核心系统预制报表十几个的开发,以及较复杂的正向和反向追溯报表查询,以及客户自定义报表功能的修改
 
-预览
+### 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report2.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report3.png" width = "30%" height = "30%"   />
 
-设备模具模块,ANDON
+## 设备模具模块,ANDON
 
-参与开发了设备模块,模具模块,安灯,web的相关页面,以及部分客户关于模具上下模,寿命扣减相关的需求
+ 参与开发了设备模块,模具模块,安灯,web的相关页面,以及部分客户关于模具上下模,寿命扣减相关的需求
 
-预览
+## 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp2.png" width = "30%" height = "30%"   />
@@ -165,51 +167,52 @@ C#(Furion)+React(antd+umi)
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp4.png" width = "30%" height = "30%"   />
 
 
-SPC模块
+## SPC模块
 
-独立开发优化了特定的版本,对客户品质,质检部门spc的需求有相关实践,对常见质检方式（I_MR,XBAR_R,XBAR_S）,常见计算公式cpk,cp,cp,pp等和9大检测方式有较深理解。
+ 独立开发优化了特定的版本,对客户品质,质检部门spc的需求有相关实践,对常见质检方式（I_MR,XBAR_R,XBAR_S）,常见计算公式cpk,cp,cp,pp等和9大检测方式有较深理解。
 
-预览
+## 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/spc/spc1.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/spc/spc2.png" width = "30%" height = "30%"   />
 
-其他
+## 其他
 
-Agv,APS,SRM
+## Agv,APS,SRM
 
-理解部分业务含义,实践操作较少,SRM早期写过部分相关需求。
+ 理解部分业务含义,实践操作较少,SRM早期写过部分相关需求。
 
-WEB 平板端
+## WEB 平板端
 
-公司新的套壳程序,一般做相关需求的时候顺带写了。
+ 公司新的套壳程序,一般做相关需求的时候顺带写了。
 
-技术架构
+### 技术架构
 
 react+(winform or android 套壳),react主要ui生态好,不用重复开发两套系统。
 
-同步模块
-
-winform 平板端
-
-公司早期的平板端。
+## 同步模块
 
 公司早期项目的同步程序完成了大部分需求的对接以及实践,对相关erp,plm等 以及部分图纸需求的同步有深刻的实践,后续也断断续续接到过部分相关需求,对k3 金蝶云,用友U8有实践经历。
 
-技术架构
+## 技术架构
 
 c#(winform+windows服务)
 
+## winform 平板端
 
-Android 移动端新
+公司早期的平板端。
+
+
+
+## Android 移动端新
 
 主要是完成对接,提供相关接口给移动端
 
-Android 移动端旧
+## Android 移动端旧
 
 一个人独立开发完成并交付两个项目,相关wms和mes移动端需求。公司最早的两个项目
 
-我的前端个人项目
+## 我的前端个人项目
 
 我很喜欢写前端,但是没有好的机会专职写前端,想能写一个低代码平台,写过一些未完善的react的可编辑拖拽的数据大屏
 
@@ -227,7 +230,7 @@ c#, ts,js,sql,java(jetlinks 2024, android端(retrofit+rxjava 2019-2020))
 
 框架 
 
-c#(furion)react(antd),vue(naive-ui,echart,axios) java(jetlinks)
+c#(furion),react,,vue, java(jetlinks,android)
 
 ide
 
