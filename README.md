@@ -37,7 +37,9 @@ github：https://github.com/zhangle1
 
 # 工作内容
 
-正在做
+数采平台
+
+简介
 
 今年5月份开始,正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
 平台分为两个模块数采端(c#),,jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
@@ -54,7 +56,7 @@ c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant
 路线图
 
 1.尝试集成go-view(大屏数据应用),前端部分已接入100%,后端部分接入60%,提供数据应用显示能力(包括设备数采的设备状态卡片展示,以及各种维度度量的图表,后续可分类为大屏,组态两种模块大屏)
-2.规则引擎模块移植,目前正在学习以及使用开源平台(https://github.com/isxcode/flink-yun),(https://zhiliuyun.isxcode.com/)并后续准备尝试移植融合到jetlinks给数采平台提供可视化数据清洗能力,对java,以及相关数据引擎flink 数据治理平台非常感兴趣,希望可以能够通过可视化的方式对数采数据进行数据etl处理,以及数据应用。
+2.规则引擎模块移植,目前正在学习以及使用开源平台(https://github.com/isxcode/flink-yun),(https://zhiliuyun.isxcode.com/)并后续准备尝试移植融合到jetlinks给数采平台提供可视化数据清洗能力,对java,我对 数据治理平台非常感兴趣,希望可以能够通过可视化的方式对数采数据进行数据etl处理,以及数据应用。数据清洗平台其实应用价值很高,不仅可以对数据进行归类,术语话,而且如果能够做到集成平台,类似workflow+script(java,sql+c#+other)+app的方式,不仅可以应用iot数采数据,也可以应用与MES提取ERP的相关数据信息,成熟后也可以交付给项目团队,让他们能够处理部分数据转换工作。也可以应用与应用报表模块的主从数据库分离,实时性,和接口速度的提升。
 
 预览
 
@@ -64,7 +66,23 @@ c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot4.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/iot/iot5.png" width = "30%" height = "30%"   />
 
+BI数据大屏模块
 
+简介
+
+我一个人开发了公司的数据大屏应用，并上线,维护了2020-2024至今十几个客户的数据大屏项目,对Mes,iot设备模块,erp等相关指标的提取,以及应用显示有比较深的理解。
+
+量化
+
+大概有40w-50w左右相关看板开发费用验收
+
+技术架构
+
+c#(Furion)+web(vue+naive-ui+自定义相关组件)+SQL
+
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen1.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen2.jpg" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen3.jpg" width = "30%" height = "30%"   />
 
 
 
@@ -104,9 +122,7 @@ Wms系统(对接erp接口,写库等方式,将条码关联单据，写回erp),以
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes1.jpg" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes2.jpg" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/mes3.jpg" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen1.jpg" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen2.jpg" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/screen3.jpg" width = "30%" height = "30%"   />
+
 
 # 技术栈工具链
 
