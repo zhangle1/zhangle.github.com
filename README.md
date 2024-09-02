@@ -41,9 +41,9 @@ github：https://github.com/zhangle1
 
 # 工作内容
 
-数采平台
+## 数采平台
 
-简介
+### 简介
 
 今年5月份开始,正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
 平台分为两个模块数采端(c#),jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
@@ -142,7 +142,6 @@ C#(Furion)+React(antd+umi)
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/newmes/basic3.png" width = "30%" height = "30%"   />
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/newmes/basic4.png" width = "30%" height = "30%"   />
 
-预览
 
 预制报表模块
 
