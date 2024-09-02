@@ -90,14 +90,35 @@ CPS MES系统
 
 简介
 
-公司的MES核心平台,
+公司的MES核心产品平台
 
 技术架构
 
 C#(Furion)+React(antd+umi)
 
 
+预制报表模块
 
+完成了公司核心系统预制报表十几个的开发,以及较复杂的正向和反向追溯报表查询
+
+预览
+
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report1.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report2.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/report/report3.png" width = "30%" height = "30%"   />
+
+
+
+设备模具模块
+
+参与开发了设备模块模块web的相关页面,以及部分客户关于模具上下模,寿命扣减相关的需求
+
+预览
+
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp1.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp2.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp3.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/eqp/eqp4.png" width = "30%" height = "30%"   />
 
 
 SPC模块
@@ -107,7 +128,7 @@ SPC模块
 预览
 
 <img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/spc/spc1.png" width = "30%" height = "30%"   />
-<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/mes/spc2.png" width = "30%" height = "30%"   />
+<img src="https://raw.githubusercontent.com/zhangle1/zhangle.github.com/master/my-pic/spc/spc2.png" width = "30%" height = "30%"   />
 
 
 # 技术栈工具链
