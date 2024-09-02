@@ -36,10 +36,25 @@ github：https://github.com/zhangle1
 * 2019.10.8-至今 温州云坤智联,国坤智能
 
 # 工作内容
+
+正在做
+
 今年5月份开始,正在做基于java jetLinks 的数采iot平台,实时采集设备数采状态,etl数据清洗,以及数据应用,和中间表对接公司Mes系统设备自动线产线派工单报工单的数量采集,和模具模块的一些中间表,
 平台分为两个模块数采端(c#),,jetLinks开源平台端,数采端采集数据,平台端清洗数据以及展示应用。和另一个同事两个人独立开发了公司新的产品线平台。
 我负责了平台端50%多的接口,以及数据数采元数据的清洗以及负责前端相关的二次开发100%
-技术架构 c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant design vue....)
+
+技术架构 
+
+c#(Winform+hsl)数采端+java(jetLinks-hsweb+spring+reactive api)+前端(vue,ant design vue....)
+
+量化
+
+完成欣灵数采平台的验收30w,以及签单戈尔德数采平台,蓝图25w
+
+路线图
+
+1.尝试集成go-view(大屏数据应用),前端部分已接入100%,后端部分接入60%,提供数据应用显示能力(包括设备数采的设备状态卡片展示,以及各种维度度量的图表,后续可分类为大屏,组态两种模块大屏)
+2.规则引擎模块移植,目前正在学习以及使用开源平台(https://github.com/isxcode/flink-yun),(https://zhiliuyun.isxcode.com/)并后续准备尝试移植融合到jetlinks给数采平台提供可视化数据清洗能力,对java,以及相关数据引擎flink 数据治理平台非常感兴趣,希望可以能够通过可视化的方式对数采数据进行数据etl处理,以及数据应用。
 
 预览
 
